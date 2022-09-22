@@ -1,6 +1,6 @@
 # Bot
 
-![preview](./.github.png)
+![preview](./.github/bot.png)
 
 Projeto construido com a ajuda da(@rafabalerini).
 
